@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Didact+Gothic');
+
+#top {
+    margin-top: 0%;
+    width: 100vw;
+    position: absolute;
+    background-image: url(x.gif);
+    background-color: #346579;
+}
+
+#centre {
+    background-color: #346579;
+    background-image: url(y.gif);
+    position: relative;
+    width: 85vw;
+    height: 100vw;
+    margin-top: 8vw;
+    margin-left: 15vw;
+}
+
+#left {
+    float: left;
+    margin-top: 8vw;
+    position: absolute;
+    height: 100vw;
+    background-color: #346579;
+}
+
+.container{
+    margin: -1px;
+}
+
+.binnen {
+    font-family: 'Didact Gothic', sans-serif;
+}
+
+p.pleasedontask {
+    margin-left: 4px;
+    color: #01c511;
+}
+
+h1 {
+    margin-left: 45%;
+    color: #75000091;
+    font-size: 58px;
+}
+
+a:link, a:visited {
+    color: #480594;
+    text-decoration: underline;
+}
+
+a:link:active, a:visited:active { 
+    color: #041494;
+}
+
+a:hover {
+    color: #666666;
+}

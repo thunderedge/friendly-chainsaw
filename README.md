@@ -1,2 +1,2 @@
 # friendly-chainsaw
-ofc zijn alle kettingzagen vriendelijk
+The retina searing mess that is my website.

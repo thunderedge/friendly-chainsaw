@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Didact+Gothic');
+/* ik heb absoluut geen idee wat ik hier aan het doen ben ¯\_(´・ω・｀)_/¯ */
 
 #top {
     margin-top: 0%;
@@ -27,7 +28,7 @@
 }
 
 .container{
-    margin: -1px;
+    margin: 0px;
 }
 
 .binnen {
@@ -36,22 +37,22 @@
 
 p.pleasedontask {
     margin-left: 4px;
-    color: #01c511;
+    color: #0aad17;
 }
 
 h1 {
     margin-left: 45%;
-    color: #75000091;
-    font-size: 58px;
+    color: #750000;
+    font-size: 56px;
 }
 
 a:link, a:visited {
-    color: #480594;
+    color: #060494;
     text-decoration: underline;
 }
 
 a:link:active, a:visited:active { 
-    color: #041494;
+    color: #140494;
 }
 
 a:hover {

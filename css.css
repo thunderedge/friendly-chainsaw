@@ -1,58 +1,69 @@
 @import url('https://fonts.googleapis.com/css?family=Didact+Gothic');
-/* ik heb absoluut geen idee wat ik hier aan het doen ben ¯\_(´・ω・｀)_/¯ */
+/* ik heb absoluut geen idee wat ik hier aan het doen ben ¯\_(´・ω・｀)_/¯ 
+
+   mujhe rang de~ */
+
+.embed-responsive-item {
+    background-color: #220694;
+}
 
 #top {
-    margin-top: 0%;
-    width: 100vw;
+    width: 101vw;
     position: absolute;
+    padding-left: 0px;
     background-image: url(x.gif);
-    background-color: #346579;
+    background-repeat: repeat;
+
 }
 
 #centre {
-    background-color: #346579;
-    background-image: url(y.gif);
-    position: relative;
     width: 85vw;
-    height: 100vw;
+    height: 100vh;
     margin-top: 8vw;
-    margin-left: 15vw;
+    margin-left: 15.85vw;
+    position: absolute;
+    background-image: url(y.gif);
+    background-repeat: repeat;
 }
 
 #left {
-    float: left;
+    height: 100vh;
     margin-top: 8vw;
+    padding-left: 0px;
     position: absolute;
-    height: 100vw;
-    background-color: #346579;
 }
 
-.container{
-    margin: 0px;
-}
-
-.binnen {
+#binnen {
     font-family: 'Didact Gothic', sans-serif;
 }
 
+.alt-grid .row {
+    padding: 0px;
+}
+
+.alt-grid .container-fluid {
+    margin: 0 auto;
+    padding: 0px;
+}
+
 p.pleasedontask {
-    margin-left: 4px;
-    color: #0aad17;
+    margin-left: 15px;
+    color: #01c511;
 }
 
 h1 {
     margin-left: 45%;
     color: #750000;
-    font-size: 56px;
+    font-size: 60px;
 }
 
 a:link, a:visited {
-    color: #060494;
+    color: #346579;
     text-decoration: underline;
 }
 
 a:link:active, a:visited:active { 
-    color: #140494;
+    color: #041494;
 }
 
 a:hover {

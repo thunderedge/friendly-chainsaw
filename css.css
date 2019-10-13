@@ -3,11 +3,11 @@
 
    mujhe rang de~ */
 
-.embed-responsive-item {
+.embed-responsive-item{
     background-color: #220694;
 }
 
-#top {
+#top{
     width: 101vw;
     position: absolute;
     padding-left: 0px;
@@ -16,8 +16,8 @@
 
 }
 
-#centre {
-    width: 85vw;
+#centre{
+    width: 85.1vw;
     height: 100vh;
     margin-top: 8vw;
     margin-left: 15.85vw;
@@ -26,46 +26,47 @@
     background-repeat: repeat;
 }
 
-#left {
+#left{
     height: 100vh;
     margin-top: 8vw;
     padding-left: 0px;
     position: absolute;
 }
 
-#binnen {
+#binnen{
     font-family: 'Didact Gothic', sans-serif;
 }
 
-.alt-grid .row {
+.alt-grid .row{
     padding: 0px;
 }
 
-.alt-grid .container-fluid {
+.alt-grid .container-fluid{
     margin: 0 auto;
     padding: 0px;
 }
 
-p.pleasedontask {
+p.pleasedontask{
     margin-left: 15px;
     color: #01c511;
 }
 
-h1 {
-    margin-left: 45%;
+h1{
+    margin: 0;
+    text-align: center;
     color: #750000;
     font-size: 60px;
 }
 
-a:link, a:visited {
+a:link, a:visited{
     color: #346579;
     text-decoration: underline;
 }
 
-a:link:active, a:visited:active { 
+a:link:active, a:visited:active{ 
     color: #041494;
 }
 
-a:hover {
+a:hover{
     color: #666666;
 }
